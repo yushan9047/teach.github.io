@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>plus</title>
+    <style>
+        body {
+            background-image: url(3.png);
+            border: dashed green 2px;
+            margin: 15px 300px;
+            padding: 15px 50px;
+        }
+
+        h1 {
+            font-weight: 900;
+            color: darkblue;
+        }
+
+        h2 {
+            border-bottom: solid pink thick;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        h2, h3,p {
+            width: 50%;
+            background: white;
+        }
+    </style>
+
+</head>
+<body>
+    <h1>LEARNING MATH</h1>
+    <h2><a href="page.html">輕鬆學習數學</a></h2>
+    <h3>加法</h3>
+    <li><p><a href="https://www.youtube.com/watch?v=hlg87ul_xG0">影片教學</a></p></li>
+    <li>定義：</li>
+    <p>
+        加法（addition，通常用加號「+」表示）是基本的算術運算之一，與減法、乘法、除法合稱「四則運算」。兩個自然數相加是將他們組合起來的總量。
+
+        例如，在圖中，三個蘋果和兩個蘋果被組合在一起，共有五個蘋果，用數學表達式表示成 3 + 2 = 5，即「３加２等於５」。
+
+        除了自然數，其他類型的數也可以定義加法，例如整數、實數、複數等，這些類型的加法是算術的一部分。在代數中，許多抽象的概念也可以相加，例如向量、矩陣等。
+    </p><br>
+    <img src="1.png" width="82" height="111">
+    <li>加法性質：</li><br>
+    <p>交換率：左右兩個加數的順序可以隨意調換。</p>
+    <p>結合律：多個數相加，順序也可以隨意調換。</p>
+</body>
+</html>
+
