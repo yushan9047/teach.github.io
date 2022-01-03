@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>remember</title>
+    <style>
+
+
+        body {
+            background-image: url(3.png);
+            border: dashed green 2px;
+            margin: 15px 300px;
+            padding: 15px 50px;
+        }
+
+        h1 {
+            font-weight: 900;
+            color: darkblue;
+        }
+
+        h2 {
+            border-bottom: solid pink thick;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        h2, h3 {
+            width: 50%;
+            background: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>LEARNING MATH</h1>
+    <h2><a href="page.html">輕鬆學習數學</a></h2>
+    <h3>學習記錄</h3>
+    <form>
+        姓名：<input type="text" name="名字">
+        學校：<input type="text" name="學校"><br>
+        日期：<input type="date" name="bday"><br>
+        時間：<input type="time" name="usr_time"><br>
+    </form>
+
+    年級：<select>
+        <option>請選擇你的年級</option>
+        <option>一</option>
+        <option>二</option>
+        <option>三</option>
+        <option>四</option>
+        <option>五</option>
+        <option>六</option>
+    </select><br>
+
+    範圍：<select>
+        <option>請選擇你讀的範圍</option>
+        <option>加法</option>
+        <option>減法</option>
+        <option>乘法</option>
+        <option>除法</option>
+        <option>認識時鐘</option>
+        <option>測驗</option>
+        <option>認識單位</option>
+    </select><br>
+    <p><input type="submit" value="送出資料"></p>
+
+</body>
+</html>
