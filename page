@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>order</title>
+    <style>
+        
+        body, img {
+            border: dashed green 2px;
+            margin: 15px 300px;
+            padding: 15px 50px;
+        }
+        body {
+            background-image: url(3.png);
+        }
+
+        h1 {
+            font-weight: 900;
+            color: darkblue;
+        }
+
+        h2 {
+            border-bottom: solid pink thick;
+        }
+
+        p {
+            text-align: center
+        }
+
+        .one {
+            margin: 0 auto;
+            width: 600px;
+        }
+
+        a {
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>LEARNING MATH</h1>
+    <li><h2>輕鬆學習數學</h2></li>
+
+    <a href="count.html">從一數到一百</a><br>
+    <a href="plus.html">加法</a><br>
+    <a href="minus.html">減法</a><br>
+    <a href="clock.html">認識時鐘</a><br>
+    <a href="unit.html">認識單位</a><br>
+    <a href="multi.html">乘法</a><br>
+    <a href="">除法</a><br>
+    <a href="">認識平面圖與立體圖</a><br>
+    <a href="">認識分數</a><br>
+    <a href="">認識小數</a><br>
+    <a href="">四則運算</a><br>
+    <a href="">圓和角</a><br>
+
+    <li><h2>自我檢視</h2></li>
+    <a href="test.html">考卷</a>
+
+    <li><h2>學習記錄</h2></li>
+    <a href="remember.html">考卷</a>
+
+    <li><h2>網站介紹</h2></li>
+    <p>
+        有的小孩可能對於學校所教的數學知識並不熟悉，父母雖然也想幫助小朋友學習，單是網路上的教學網頁、影片、平台等都非常多種，因此會造成想找到有效學習方式不容易。
+    </p><br>
+    <p>
+        希望透過此網站，建立一個可以方便使用者去做學習及查詢所有相關數學知識的網站，並將相關知識做統整，並結合影片教學。
+
+    </p>
+
+
+
+
+</body>
+</html>
