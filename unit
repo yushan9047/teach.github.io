@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>unit</title>
+    <style>
+        body {
+            background-image: url(3.png);
+            border: dashed green 2px;
+            margin: 15px 300px;
+            padding: 15px 50px;
+        }
+
+        h1 {
+            font-weight: 900;
+            color: darkblue;
+        }
+
+        h2 {
+            border-bottom: solid pink thick;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        h2, h3,p {
+            width: 50%;
+            background: white;
+        }
+    </style>
+
+</head>
+<body>
+    <h1>LEARNING MATH</h1>
+    <h2><a href="page.html">輕鬆學習數學</a></h2>
+    <h3>認識單位</h3>
+    <li><p><a href="https://www.youtube.com/watch?v=9vr3JGc4IBg">影片教學</a></p></li>
+    <li>長度單位：</li>
+    <p>
+        1公里(km)=1000公尺(m)
+        1公尺(m)=100公分(cm)
+        1公分(cm)=10毫米(mm)
+        1公尺(m)=1000毫米(mm)
+    </p>
+    <li>面積：</li>
+    <p>
+        1公頃(ha)=100公畝(a)
+        1公畝(a)=100平方公尺(m2)
+        1平方公尺(m2) =10000平方公分(cm2)
+    </p>
+    <li>容量：</li>
+    <p>
+        1度=1公秉(kl)=1立方公尺(m3)
+        1公秉(kl)=1000公升(l)
+        1公升(kl)=1000毫升(ml)
+        1分公升(dl)=100毫升(ml)
+        1毫升(ml)=1立方公分(cm3) = 1c .c
+    </p>
+    <li>重量：</li>
+    <p>
+        1公噸(t)=1000公斤(kg)
+        1公斤(kg)=1000公克(g)
+    </p>
+
+</body>
+</html>
+
