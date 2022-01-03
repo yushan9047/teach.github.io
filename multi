@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>multi</title>
+    <style>
+        body {
+            background-image: url(3.png);
+        }
+        h1 {
+            font-weight: 900;
+            color: darkblue;
+        }
+
+        h2 {
+            border-bottom: solid pink thick;
+            border: dashed green 2px;
+            margin: 15px 300px;
+            padding: 15px 50px;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        h2,h3,p{
+            width:50%; background:white;
+        }
+    </style>
+</head>
+<body>
+    <h1>LEARNING MATH</h1>
+    <h2><a href="page.html">輕鬆學習數學</a></h2>
+    <h3>乘法</h3>
+    <li><p><a href="https://www.youtube.com/watch?v=jnkD6gF2D00">影片教學</a></p></li>
+    <li>定義：</li>
+    <p>
+        乘法（英語：Multiplication），加法的連續運算，同一數的若干次連加，其運算結果稱為積（英語：Product）。
+    </p>
+    <li>表示法：</li>
+    <p>
+        以下的式子表示「五乘以二」：
+        5×2<br>
+        5⋅2<br>
+        5∗2<br>
+    </p>
+    <li>性質：</li>
+    <p>
+        交換律：
+        xy=yx<br>
+        結合律：
+        (xy)z=x(yz)<br>
+        分配律：
+        x(y+z)=xy+xz<br>
+    </p><br>
+    <p>
+        將任何數乘以一都會等於該數本身，即1x=x，稱為單位律。
+        將任何數乘以零，即是甚麼也沒做過，結果就是零，即0x=0。
+    </p><br>
+
+</body>
+</html>
+
