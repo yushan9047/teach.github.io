@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>clock</title>
+    <style>
+        body {
+            background-image: url(3.png);
+            border: dashed green 2px;
+            margin: 15px 300px;
+            padding: 15px 50px;
+        }
+
+        h1 {
+            font-weight: 900;
+            color: darkblue;
+        }
+
+        h2 {
+            border-bottom: solid pink thick;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        h2, h3, p {
+            width: 50%;
+            background: white;
+        }
+        h3{
+            text-align:center;
+        }
+    </style>
+</head>
+<body>
+    <h1>LEARNING MATH</h1>
+    <h2><a href="page.html">輕鬆學習數學</a></h2>
+    <h3>認識時鐘</h3>
+    <li><p><a href="https://www.youtube.com/watch?v=MEwKZlqPjz0">影片教學</a></p></li>
+    <p><li>時間概念：</li></p>
+    <p>時間是一種尺度，在物理定義是純量，藉著時間，事件發生之先後可以按過去-現在-未來之序列得以確定（時間點/時刻），也可以衡量事件持續的期間以及事件之間和間隔長短</p>
+    <p><li>認識長針、分針：</li></p>
+    <img src="2.jpg"width="300"height="200">
+</body>
+</html>
